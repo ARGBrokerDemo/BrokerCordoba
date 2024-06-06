@@ -4,10 +4,10 @@
 
 |         Nombre/es     |        Apellido       |      DNI     |            Correo Electrónico           |                   Github                  |
 |-----------------------|-----------------------|--------------|-----------------------------------------|-------------------------------------------|
-|    Gabriel            |      Gori             |   27955008           |   gabygori@gmail.com                    |https://github.com/Gaby1980                                    |
-|    Gaston Exequiel    |      Carreño          |              |   gastonexc@gmail.com                   |                                           |
+|    Gabriel            |      Gori             |   27955008           |   gabygori@gmail.com                    |[https://github.com/Gaby1980](https://github.com/Gaby1980)                                    |
+|    Gaston Exequiel    |      Carreño          |   41625879           |   gastonexc@gmail.com                   |   [https://github.com/gastonkrreds](https://github.com/gastonkrreds)                                        |
 |    Ariel Orlando      |      Fernandez        |   33817721   |   lic.arielfernandez.hys@gmail.com      |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
-|    Alvaro Reinaldo    |      Benicio          |   35821816           |   alvarobenicio765@gmail.com                                      |   https://github.com/alvarobenicio                                        |
+|    Alvaro Reinaldo    |      Benicio          |   35821816           |   alvarobenicio765@gmail.com                                      |   [https://github.com/alvarobenicio](https://github.com/alvarobenicio)                                        |
 |    Luis Gerardo       |      Catalas          |   35581397   |   gerardocatalas@mi.unc.edu.ar          |  [https://github.com/geracatalas](https://github.com/geracatalas)|
 
 ### **Descripción del proyecto** 
