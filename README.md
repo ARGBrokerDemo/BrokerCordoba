@@ -4,10 +4,10 @@
 
 |         Nombre/es     |        Apellido       |      DNI     |            Correo Electrónico           |                   Github                  |
 |-----------------------|-----------------------|--------------|-----------------------------------------|-------------------------------------------|
-|    Gabriel            |      Gori             |              |   gabygori@gmail.com                    |                                           |
+|    Gabriel            |      Gori             |   27955008           |   gabygori@gmail.com                    |                                           |
 |    Gaston Exequiel    |      Carreño          |              |   gastonexc@gmail.com                   |                                           |
 |    Ariel Orlando      |      Fernandez        |   33817721   |   lic.arielfernandez.hys@gmail.com      |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
-|    Alvaro Reinaldo    |      Benicio          |              |                                         |                                           |
+|    Alvaro Reinaldo    |      Benicio          |   35821816           |                                         |                                           |
 |    Luis Gerardo       |      Catalas          |   35581397   |   gerardocatalas@mi.unc.edu.ar          |  [https://github.com/geracatalas](https://github.com/geracatalas)|
 
 ### **Descripción del proyecto** 
