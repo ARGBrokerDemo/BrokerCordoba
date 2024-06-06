@@ -24,4 +24,5 @@ Basándose en los requerimientos funcionales del proyecto ARGBroker Demo, se sol
 - Una acción (Accion) pertenece a una compañía (Empresa), asimismo a cada acción se le puede realizar una operación (Operacion) que puede ser de compra o venta.
 - Por último, el Broker cobra de cada operación realizada sobre las acciones una comisión (comision) que es del 1,5% del total del importe operado.
 
+### 4. 
 
