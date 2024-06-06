@@ -4,7 +4,7 @@
 
 |         Nombre/es     |        Apellido       |      DNI     |            Correo Electrónico           |                   Github                  |
 |-----------------------|-----------------------|--------------|-----------------------------------------|-------------------------------------------|
-|    Gabriel            |      Gori             |   27955008           |   gabygori@gmail.com                    |                                           |
+|    Gabriel            |      Gori             |   27955008           |   gabygori@gmail.com                    |https://github.com/Gaby1980                                    |
 |    Gaston Exequiel    |      Carreño          |              |   gastonexc@gmail.com                   |                                           |
 |    Ariel Orlando      |      Fernandez        |   33817721   |   lic.arielfernandez.hys@gmail.com      |  [https://github.com/fernandez-ariel](https://github.com/fernandez-ariel) |
 |    Alvaro Reinaldo    |      Benicio          |   35821816           |   alvarobenicio765@gmail.com                                      |   https://github.com/alvarobenicio                                        |
