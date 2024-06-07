@@ -55,3 +55,5 @@
 |precio ||valor de compra o venta de la operación|
 | fechaOperacion ||fecha y hora en la que se registra la operación en el sistema|
 | comision ||monto de comisión sobre la venta|
+
+
