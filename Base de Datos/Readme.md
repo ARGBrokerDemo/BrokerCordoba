@@ -10,7 +10,7 @@
 
 
 ## Descripción tablas:
-Usuarios
+###### Usuarios
 
 | Nombre Atributo | Tipo |Explicación|
 | ------ |------|------|
@@ -23,3 +23,35 @@ Usuarios
 | perfil|  |pefil inversor usuario|
 | contraseña |  |Contraseña del usuario|
 | fecha alta |  |fecha el alta en el sistema del usuario|
+
+###### cuenta bancaria
+
+| Nombre Atributo | Tipo |Explicación|
+| ------ |------|------|
+| cuentabancaria | |identificador de registro de la cuenta|
+| cbu_cvu |PK |clave bancaria única de la cuenta|
+| banco |  |nombre del banco al que pertenece la cuenta|
+| titular |  |titular de la cuenta|
+| cuit | FK |cuit del titular de la cuenta - Clave foránea con usuarios |
+
+###### precio mercado
+
+| Nombre Atributo | Tipo |Explicación|
+| ------ |------|------|
+| idAccion | PK |identificador de acción clave primaria compuesta|
+| fechaHora |PK |fecha y hora del precio de la acción clave primaria compuesta|
+| precioCompra |  |precio de compra del mercado|
+| precioVenta|  |precio de venta del mercado|
+
+###### transacción
+
+| Nombre Atributo | Tipo |Explicación|
+| ------ |------|------|
+| idTransaccion | PK |identificador de la trasacción realizada|
+| cuit |FK |cuit del usuario que realiza la transacción - clave foránea  |
+| idAccion | FK |identificador de la acción - clave foránea |
+| tipoTransaccion|  |precio de venta del mercado|
+| cantidad ||cantidad de acciones compradas en la operación|
+|precio ||valor de compra o venta de la operación|
+| fechaOperacion ||fecha y hora en la que se registra la operación en el sistema|
+| comision ||monto de comisión sobre la venta|
